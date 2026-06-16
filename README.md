@@ -144,7 +144,7 @@ namespace SreeprasadR
 |:---:|:---:|:---|
 | **Internet Banking** | ASP.NET MVC, C#, SQL Server | Full-featured banking portal with secure transactions and account management |
 | **Blockchain** | C#, ASP.NET API | Decentralised blockchain for tamper-proof financial record-keeping |
-| **Horizon Bank** | ASP.NET MVC, jQuery, SQL Server | Core banking system — accounts, loans and customer management |
+| **Core Banking** | ASP.NET MVC, jQuery, SQL Server | Core banking system — accounts, loans and customer management |
 | **Asset Liability Management** | C#, SQL Server | ALM module for financial risk and balance sheet reporting |
 | **Micro Insurance** | ASP.NET MVC, VB.NET, MySQL | Platform for policy issuance, claims processing and premium collection |
 | **Core Insurance System** | ASP.NET, C#, SQL Server | End-to-end insurance platform — underwriting, policies and renewals |
