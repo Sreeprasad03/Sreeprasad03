@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Sreeprasad%20R&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20ASP.NET%20%7C%20Banking%20%26%20Insurance%20Systems&descAlignY=62&descSize=16" width="100%"/>
+# 👋 Hi, I'm Sreeprasad R
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sreeprasad+R+%F0%9F%91%8B;Software+Developer+%7C+ASP.NET+%2B+C%23;Banking+%26+Insurance+Systems+Builder;Database+Architect+%7C+SQL+Server+%2B+MySQL" alt="Typing SVG" />
+### 💼 Software Developer | ASP.NET | Banking & Insurance Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+ASP.NET+%2B+C%23;Banking+%26+Insurance+Systems+Builder;3%2B+Years+of+Industry+Experience;Database+Architect+%7C+SQL+Server+%2B+MySQL" alt="Typing SVG" />
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Location-Palakkad%2C_Kerala-blue?style=flat-square)
+![Experience](https://img.shields.io/badge/💼_Experience-3%2B_Years-green?style=flat-square)
+![Email](https://img.shields.io/badge/📧_Email-sreeprasadsree03@gmail.com-red?style=flat-square)
 
 </div>
 
@@ -20,7 +28,7 @@ namespace SreeprasadR
         public string Name       => "Sreeprasad R";
         public string Location   => "Palakkad, Kerala, India";
         public string Email      => "sreeprasadsree03@gmail.com";
-        public string GitHub     => "github.com/Sreeprasad03/Sreeprasad_R";
+        public string GitHub     => "github.com/Sreeprasad03";
         public string Role       => "Software Developer — Banking & Insurance Systems";
         public string Degree     => "BSc Computer Science, University of Calicut (2016-2019)";
 
@@ -39,7 +47,7 @@ namespace SreeprasadR
         };
 
         public string FunFact =>
-            "I built an Internet Banking system & a Blockchain project " +
+            "I built an Internet Banking system and a Blockchain project " +
             "keeping money safe, one commit at a time!";
 
         public string Motto() => "Write code that is readable, reliable, and resilient.";
@@ -188,9 +196,9 @@ Application Security (OWASP)   ███████░░░░░   In Progres
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-sreeprasadsree03@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sreeprasadsree03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sreeprasad03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreeprasad03/Sreeprasad_R)
-[![Location](https://img.shields.io/badge/Location-Palakkad%2C%20Kerala-4CAF50?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Palakkad,Kerala)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208848746337-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918848746337)
+[![GitHub](https://img.shields.io/badge/GitHub-Sreeprasad03-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sreeprasad03)
+[![Location](https://img.shields.io/badge/Location-Palakkad%2C_Kerala-4CAF50?style=flat-square&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Palakkad,Kerala)
+[![Phone](https://img.shields.io/badge/Phone-%2B91_8848746337-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+918848746337)
 
 </div>
 
@@ -200,8 +208,6 @@ Application Security (OWASP)   ███████░░░░░   In Progres
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sreeprasad03&color=70A5FD&style=flat-square&label=Profile+Views)
 
-*"Write code that is readable, reliable, and resilient."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%"/>
+### *"Write code that is readable, reliable, and resilient."*
 
 </div>
